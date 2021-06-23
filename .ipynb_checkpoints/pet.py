@@ -39,7 +39,6 @@ if __name__ == '__main__':
                  '30 다음 객체를 customer_id 를 인덱스로하고 product_code 를 컬럼으로, purchare_amount 를 값으로, 재구성하시오\n'
                  '31 30번 객체를 customer_id 와 grade 를 인덱스로하고 product_code 를 컬럼으로, purchare_amount 를 값으로, 재구성하시오\n'
                  )
-    ic('menu')
 
     def quiz_2():
         pass
@@ -65,16 +64,106 @@ if __name__ == '__main__':
     def quiz_9():
         pass
 
-    def quiz_2():
+    def quiz_10():
         pass
 
-    def quiz_2():
+    def quiz_11():
         pass
 
-    def quiz_2():
+    def quiz_12():
         pass
 
+    def quiz_13():
+        pass
 
+    def quiz_14():
+        pass
+
+    def quiz_15():
+        pass
+
+    def quiz_16():
+        pass
+
+    def quiz_17():
+        pass
+
+    def quiz_18():
+        pass
+
+    def quiz_19():
+        pass
+
+    def quiz_20():
+        pass
+
+    def quiz_21():
+        pass
+
+    def quiz_22():
+        pass
+
+    def quiz_23():
+        pass
+
+    def quiz_24():
+        pass
+
+    def quiz_25():
+        pass
+
+    def quiz_26():
+        pass
+
+    def quiz_27():
+        pass
+
+    def quiz_28():
+        pass
+
+    def quiz_29():
+        pass
+
+    def quiz_30():
+        pass
+
+    def quiz_31():
+        pass
+
+    while 1:
+        select = input('menu')
+        if select == '0': break
+        elif select == '2': quiz_2()
+        elif select == '3': quiz_3()
+        elif select == '4': quiz_4()
+        elif select == '5': quiz_5()
+        elif select == '6': quiz_6()
+        elif select == '7': quiz_7()
+        elif select == '8': quiz_8()
+        elif select == '9': quiz_9()
+        elif select == '10': quiz_10()
+        elif select == '11': quiz_11()
+        elif select == '12': quiz_12()
+        elif select == '13': quiz_13()
+        elif select == '14': quiz_14()
+        elif select == '15': quiz_15()
+        elif select == '16': quiz_16()
+        elif select == '17': quiz_17()
+        elif select == '18': quiz_18()
+        elif select == '19': quiz_19()
+        elif select == '20': quiz_20()
+        elif select == '21': quiz_21()
+        elif select == '22': quiz_22()
+        elif select == '23': quiz_23()
+        elif select == '24': quiz_24()
+        elif select == '25': quiz_25()
+        elif select == '26': quiz_26()
+        elif select == '27': quiz_27()
+        elif select == '28': quiz_28()
+        elif select == '29': quiz_29()
+        elif select == '30': quiz_30()
+        elif select == '31': quiz_31()
+        else: continue
 
 def pandas_version_output():
     # pandas 버젼 출력
