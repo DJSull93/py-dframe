@@ -4,7 +4,7 @@ import random
 import string
 np.random.seed(56)
 from icecream import ic
-
+################################################
 if __name__ == '__main__':
     menu = input('press number'
                  '2. 판다스 버전 출력\n'
